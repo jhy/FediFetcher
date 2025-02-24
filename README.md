@@ -1,3 +1,5 @@
+<meta name="ahrefs-site-verification" content="ad8a1ae1ba3d76a0dd4f56be4c04585995bee8c6876b10ae0edd29736b15442c">
+
 # FediFetcher for Mastodon
 
 This GitHub repository provides a simple script that can pull missing posts into Mastodon using the Mastodon API. FediFetcher has no further dependencies, and can be run as either a GitHub Action, a scheduled cron job, or a pre-packaged container. Here is what FediFetcher can do:
